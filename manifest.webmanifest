@@ -1,0 +1,13 @@
+{
+  "name": "AIF Academic Platform",
+  "short_name": "AIF Academy",
+  "description": "AIF practice and examination platform",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b2545",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
